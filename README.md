@@ -2,6 +2,8 @@
 
 A user-friendly, interactive SCP (Secure Copy Protocol) client written in Rust that simplifies secure file transfers over SSH. This tool provides an intuitive command-line interface for uploading files to remote servers with progress tracking and multiple authentication methods.
 
+![Interactive SCP Client Demo](docs/carbon.png)
+
 ## ✨ Features
 
 - **Interactive CLI**: Step-by-step prompts guide you through the transfer process
